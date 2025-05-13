@@ -3,12 +3,12 @@
 ### First pic 
 ![Screanshot (495).](https://github.com/Mahmoud0019/oibsib_taskno3/blob/main/1.png)
 
-###Description:
+### Description:
 
 This image displays a dashboard focused on the sentiment analysis of user reviews for applications on the Google Play Store. It provides an overview of app ratings, categories, and the relationship between app size, price, and ratings. The dashboard includes the following elements:
 Title: "Play Store: Sentiment Analysis Of Users Reviews" clearly indicates the dashboard's focus.
 
-###cKey Metrics:
+### Key Metrics:
 
 Total Apps: Displays the total number of apps in the dataset (9638).
 Cnt. Category: Shows the total number of app categories (33).
